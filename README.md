@@ -5,8 +5,8 @@
 - [Project Overview](#project-overview)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [EDA - Exploratory Data Analysis](#eda---exploratory-data-analysis)
-- [Recommendations](#recommendations)
 - [Results - Findings](#results---findings)
+- [Recommendations](#recommendations)
 
 ## Materials
 - Link Dashboard: [H4TF_DA_Enterprise_For_Tech](https://app.powerbi.com/links/-X1KlJwaUd?ctid=dfe6a537-1611-4252-a05c-003eb86afd6c&pbi_source=linkShare)
