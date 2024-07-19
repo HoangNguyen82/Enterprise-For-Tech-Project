@@ -10,6 +10,7 @@
 
 ## Materials
 - Link Dashboard: [H4TF_DA_Enterprise_For_Tech](https://app.powerbi.com/links/-X1KlJwaUd?ctid=dfe6a537-1611-4252-a05c-003eb86afd6c&pbi_source=linkShare)
+- Link Slide: [Slide](https://www.canva.com/design/DAGI9jw7xJ8/P5bhPyTB7wr1hk_rEdNHjA/edit?fbclid=IwZXh0bgNhZW0CMTAAAR2tpMEnlvfoARkMFjRirdl7WJCweSIVUhfyfsHfY3hjJE_7xNZERGh0SBU_aem_JXyyWVaTWqwKL8B7COO50w)
 
 ### Project Overview
 Enterprise For Tech is a B2B company specializing in providing computer hardware products. In this project, we will analyze and evaluate Sale Performance, Customer, Product and Sale Teams as well as make suggestions for improvement and innovation of Business Performance.
